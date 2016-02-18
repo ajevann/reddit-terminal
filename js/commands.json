@@ -1,0 +1,32 @@
+[
+  {
+    "program":"bash",
+    "command":"cd",
+    "man":""
+  },
+  {
+    "program":"bash",
+    "command":"open",
+    "man":""
+  },
+  {
+    "program":"bash",
+    "command":"ls",
+    "man":""
+  },
+  {
+    "program":"bash",
+    "command":"find",
+    "man":""
+  },
+  {
+    "program":"bash",
+    "command":"login",
+    "man":""
+  },
+  {
+    "program":"bash",
+    "command":"logout",
+    "man":""
+  }
+]
